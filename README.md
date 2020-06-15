@@ -6,4 +6,4 @@ All the assignments are written in Python.
 
 List of Assignments -
 
-1. [Product_Optimization](https://github.com/Aayushi-UCLA/Customer-Analytics/tree/master/Product_Optimzation)
+1. [Product_Optimization: Identifying the best price-feature-vector](https://github.com/Aayushi-UCLA/Customer-Analytics/tree/master/Product_Optimzation)
