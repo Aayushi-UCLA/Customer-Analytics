@@ -1,4 +1,4 @@
-# Product Optimzation Exercise:
+# Segmentation Exercise:
 
 This exercise has two parts, the first on product affinity based segmentation and the second on classical segmentation.
 
