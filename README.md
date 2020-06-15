@@ -6,4 +6,4 @@ All the assignments are written in Python.
 
 List of Assignments -
 
-1. [Customer_Segmentation](https://github.com/Aayushi-UCLA/Customer-Analytics/tree/master/Customer-Segmentation)
+1. [Product_Optimization](https://github.com/Aayushi-UCLA/Customer-Analytics/tree/master/Customer-Segmentation)
